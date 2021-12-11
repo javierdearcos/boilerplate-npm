@@ -1,5 +1,6 @@
 {
 	"author": "Javier de Arcos",
+	"description": "A boilerplate NPM project to develop Free Code Camp Backend Challenges",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
