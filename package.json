@@ -3,7 +3,7 @@
 	"description": "A boilerplate NPM project to develop Free Code Camp Backend Challenges",
 	"keywords": ["backend", "nodejs", "freecodecamp"],
 	"license": "MIT",
-	"name": "fcc-learn-npm-package-json",
+	"name": "boilerplate-npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,6 +13,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/javierdearcos/boilerplate-npm.git"
 	}
 }
